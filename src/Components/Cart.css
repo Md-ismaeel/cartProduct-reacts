@@ -1,0 +1,92 @@
+.cart-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.parent-container {
+  width: 90%;
+  display: flex;
+  /* flex-direction: column; */
+  justify-content: space-around;
+  align-items: center;
+}
+
+.detail-container {
+  width: 60%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.name-and-price {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#remove-btn {
+  width: 3rem;
+  background-color: transparent;
+  color: #645cff;
+  border: 0;
+  outline: 0;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.inc-dec-btn {
+  width: 25%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+.inc-dec-btn button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: transparent;
+  border: 0;
+  outline: 0;
+  font-size: 24px;
+  color: #645cff;
+  height: 10px;
+  cursor: pointer;
+}
+
+.total-details {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 1rem;
+}
+
+.clear-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+#clr {
+  width: 7rem;
+  height: 2rem;
+  border: 0;
+  outline: 0;
+  background-color: #C1BEFF;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+#clr:hover {
+  background-color: #645cff;
+}

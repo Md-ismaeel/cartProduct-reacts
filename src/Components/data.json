@@ -1,0 +1,46 @@
+{
+    "phoneData": [
+        {
+            "id": "1",
+            "name": "Samsung S21",
+            "quantity": "0",
+            "price": "20000",
+            "image": "https://www.jiomart.com/images/product/original/491946875/samsung-galaxy-s21-ultra-256-gb-12-gb-ram-phantom-black-smartphone-digital-o491946875-p590441717-5-202108122037.jpeg?im=Resize=(420,420)"
+        },
+        {
+            "id": "2",
+            "name": "Realm 12 pro",
+            "quantity": "0",
+            "price": "30000",
+            "image": "https://i02.appmifile.com/976_operatorx_operatorx_opx/23/02/2024/c4866f7bdd20c6ed7acf6082417dd340.png?thumb=1&w=500&q=85"
+        },
+        {
+            "id": "3",
+            "name": "Iphone 15 pro",
+            "quantity": "0",
+            "price": "50000",
+            "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1708678594/Croma%20Assets/Communication/Mobiles/Images/300819_0_imwvfj.png?tr=w-600"
+        },
+        {
+            "id": "4",
+            "name": "Samsung Galaxy S24 Ultra",
+            "quantity": "0",
+            "price": "120000",
+            "image": "https://i.gadgets360cdn.com/products/large/realme-11-pro-plus-realme-db-1-661x800-1683725752.jpg"
+        },
+        {
+            "id": "5",
+            "name": "OnePlus Nord CE3",
+            "quantity": "0",
+            "price": "64000",
+            "image": "https://lh3.googleusercontent.com/spp/AOgFAqMvYME3zg_XKnO7EtFvUXv-cQPenQOSYLqT6aF2v9iZod7xKx8nTdrjA_a9hrFphWVs_7SUiiSdBVvope7_ko1XeQDI2Io1Icqy_k_Es0oaXH8v8pWawvzo6mAFSGC4RKJ6M6OwbBvZI9EIKYr2uqapGzKv3qmJv_0y4FqB0KcNHNwwoNZoc08mOGVr0iQMeJWALmMeqg=s512-rw-pd-pc0x00ffffff"
+        },
+        {
+            "id": "6",
+            "name": "Oppo-Reno-10-Pro-Plus",
+            "quantity": "0",
+            "price": "180000",
+            "image": "https://i.gadgets360cdn.com/products/large/Oppo-Reno-10-Pro-Plus-5G-DB-709x800-1685018454.jpg"
+        }
+    ]
+}

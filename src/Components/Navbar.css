@@ -1,0 +1,29 @@
+.nav-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #645cff;
+  color: white;
+  font-size: 20px;
+}
+
+.icon-container {
+  position: relative;
+}
+#cartIcon {
+  font-size: 2rem;
+}
+
+.sub {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  right: -20px;
+  top: -10px;
+  background-color: #aba7fc;
+  /* padding: 2px 7px; */
+  width: 1.8rem;
+  height: 1.8rem;
+  border-radius: 50%;
+}
