@@ -99,7 +99,7 @@ export const Cart = ({ products, setProducts, quantity, setQuantity }) => {
             </div>
           );
         })}
-        <div style={{
+        {products.length <= 0 ? "" : <div style={{
           width: '100%', display: 'flex',
           flexDirection: 'column', justifyContent: 'center',
           alignItems: 'center'
@@ -129,7 +129,8 @@ export const Cart = ({ products, setProducts, quantity, setQuantity }) => {
               Clear Cart
             </button>
           </div>
-        </div>
+        </div>}
+
       </div>
     </>
   );
